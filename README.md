@@ -1,3 +1,1 @@
-<p align="left">
-  <img src="https://onrender.com" alt="LeetCode Stats" />
-</p>
+<h1> Leetcode repo <h1>
